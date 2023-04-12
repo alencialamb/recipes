@@ -1,3 +1,4 @@
+
 ** Ingredients **
 
 flour 
@@ -5,3 +6,10 @@ yeast
 tomato
 mozarella cheese
 sausage
+
+
+** Procedure **
+1. Mix dry ingredients with wet ingredients
+2. knead dough
+3. bake
+4. add toppings
